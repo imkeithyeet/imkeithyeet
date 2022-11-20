@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imkeithyeet
+- 👋 Hi, I’m @imkeithyeet(Keith Ma)
 - 👀 I’m interested in dancing,cars and working out
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on new coding project
